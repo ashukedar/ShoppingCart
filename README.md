@@ -6,7 +6,7 @@ Initial code base has only one user, with the features to:
 	2. Increment item count depending on it's availablity
 	3. Remove item from cart
 	4. Buy the items in cart
-
+	
 More features that can be expected to be added include:
 	1. Admin user who can update store
 	2. Authentication and Authorization
