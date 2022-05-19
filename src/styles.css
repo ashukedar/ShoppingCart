@@ -1,0 +1,39 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.spaceOnRight {
+  padding-left: 0px;
+  padding-right: 50px;
+  display: inline;
+}
+
+li {
+  list-style-type: none;
+}
+
+.inline {
+  display: inline;
+}
+
+.hide {
+  visibility: hidden;
+  display: none;
+}
+
+.spaceOnbothSides {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.alignCenter {
+  text-align: center;
+}
